@@ -1,0 +1,49 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000000;
+    color: #fff;
+  }
+  
+  .navbar-logo {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-logo img {
+    width: 150px;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin-right: auto;
+  }
+  
+  .navbar-links li {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-widgets {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .cart-icon {
+    width: 20px;
+  }
+  
+ 
+  .cart-widgets img {
+    width: 30px;
+  }
+  
+  
+
+  
